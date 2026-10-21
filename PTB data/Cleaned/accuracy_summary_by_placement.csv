@@ -1,0 +1,10 @@
+position,speed,accuracy_MovingAvg,accuracy_Butterworth,accuracy_Kalman
+arm,fast,94.16,67.08,92.5
+arm,normal,94.91,72.99,92.04
+arm,slow,89.71,91.27,90.66
+hand,fast,90.48,72.94,87.86
+hand,normal,93.26,80.84,91.68
+hand,slow,92.56,85.51,89.73
+pocket,fast,93.13,63.19,92.29
+pocket,normal,91.3,77.14,92.48
+pocket,slow,93.2,86.69,90.62
